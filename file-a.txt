@@ -1,1 +1,2 @@
 content of the file a
+some changes from task 3
